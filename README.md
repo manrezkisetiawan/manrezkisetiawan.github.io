@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Web - Nama Masing-masing</title>
+
+
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <style>
+        body {
+            font-family: Poppins;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        
+        .profile-container {
+            margin-top: 90px;
+        }
+    </style>
+</head>
+<body>
+    
+
+    <div class="profile-container">
+        <h1>Man Rezki Setiawan</h1>
+        <img src="foto1.jpg" alt="Foto Profil" width="200" style="border-bottom: 50%;">
+  
+    <div class="identity">
+         NIM: 102022430015 |
+         Fakultas Rekayasa Industri |
+         Program Studi S1 Sistem Informasi
+    </div>
+
+   
+    <div class="social-icons">
+        <a href="https://github.com/manrezkisetiawan" target="_blank" title="GitHub">Github </a>
+        and
+        <a href="https://instagram.com/manrezki___" target="_blank" title="Instagram">Instagram</a>
+    </div>
+</body>
+</html>
